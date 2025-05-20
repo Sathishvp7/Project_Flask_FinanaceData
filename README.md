@@ -85,5 +85,3 @@ curl http://localhost:5000/api/analytics/AMZN
 
 - Flask
 - yfinance (Yahoo Finance API)
-- Pandas
-- NumPy
