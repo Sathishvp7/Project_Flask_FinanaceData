@@ -1,8 +1,6 @@
 from flask import Flask, jsonify, request
 from flask_cors import CORS
 import yfinance as yf
-import pandas as pd
-import numpy as np
 from datetime import datetime, timedelta
 import functools
 
